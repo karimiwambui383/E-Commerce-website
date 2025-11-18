@@ -82,8 +82,5 @@ Open `index.html` in your browser.
 
 Contributions are welcome! Open an issue or submit a pull request.
 
----
 
-## 📄 License
-
-MIT License
+###  visit live site :https://karimiwambui383.github.io/E-Commerce-website/
